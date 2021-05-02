@@ -1,1 +1,1 @@
-{"configuration" : "1", "message" : "error"}
+{"configuration" : "2", "message" : "error"}
