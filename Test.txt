@@ -1,1 +1,1 @@
-{"configuration" : "2", "message" : "Zadig"}
+{"configuration" : "2", "message" : "Warning"}
